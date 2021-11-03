@@ -27,6 +27,7 @@ public class Main {
 * переключаю ветки командой git checkout newbie
 * в новой ветке создал папку blog с файлами: index.js, index.html
 * обратно переключился на ветку мастер командой git checkout master
+* объединяю ветки командой git merge newbie
 * На сайте github.com был создан репозиторий
 * подключаем Github репозиторий git remote add origin https://github.com/Forfetch/javas
 * заносим все файлы на удаленку git push -u origin master
